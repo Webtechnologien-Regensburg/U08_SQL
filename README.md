@@ -25,9 +25,9 @@ header-includes: |
 ---
 
 
-# 08 | Einfache SQL Anfragen
+# 08 | Einfache SQL-Anfragen
 
-In dieser Aufgabe sollen Sie einfache SQL-Anfragen stellen, um die gewünschten Daten aus der Ihnen zur Verfügung gestellten _MovieDatabase_ auszulesen. Verwenden Sie den in der Vorlesung besprochenen  [\textcolor{blue}{DB Browser für SQLite}](https://sqlitebrowser.org/), um die Datenbank zu importieren und ihre SQL-Anfragen zu formulieren. Schreiben Sie anschließend SQL-Statements, mit welchen Sie
+In dieser Aufgabe sollen Sie einfache SQL-Anfragen stellen, um die gewünschten Daten aus der Ihnen zur Verfügung gestellten _MovieDatabase_ auszulesen. Verwenden Sie das in der Vorlesung besprochene Tool  [\textcolor{blue}{DB Browser für SQLite}](https://sqlitebrowser.org/), um die Datenbank zu importieren und ihre SQL-Anfragen zu formulieren. Schreiben Sie anschließend SQL-Statements, mit welchen Sie
 
 - alle Filmtitel auflisten.
 
@@ -38,11 +38,9 @@ In dieser Aufgabe sollen Sie einfache SQL-Anfragen stellen, um die gewünschten 
 - alle Filme, die im Jahr 2020 erschienen sind, ausgeben.
 - alle Filme, die vor dem Jahr 2000 erschienen sind, auflisten.
 - die Anzahl aller in der Datenbank gespeicherten Filmen ausgeben.
-- die Anzahl aller in der Datenbank gespeicherten amerikanischen Filme ausgeben
+- die Anzahl aller in der Datenbank gespeicherten amerikanischen Filme ausgeben.
 - alle Filme, die zwischen 160 und 180 Minuten dauern, auflisten.
 - alle amerikanischen Filme, die länger als 110 Minuten und weniger als 160 Minuten dauern, ausgeben.
-
-Sie können die SQL-Statements in einer Datei abspeichern (.sql).
 
 ------
 
@@ -50,7 +48,7 @@ Sie können die SQL-Statements in einer Datei abspeichern (.sql).
 
 Laden Sie Ihre Antworten bis spätestens 06.07.2020 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch. Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
 
-- Aufgabe: Ihre SQL-Datei
+- Aufgabe: Eine SQL-Datei (.sql) mit allen Statements 
 
 
 Der Name der Datei ergibt sich aus dem Präfix „Übung_WT_SS20“, der Nr. des Übungsblattes, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
