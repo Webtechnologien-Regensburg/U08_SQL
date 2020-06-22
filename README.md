@@ -25,9 +25,9 @@ header-includes: |
 ---
 
 
-# 08 | Einfache SQL-Anfragen
+# 08 | Einfache SQL-Abfragen
 
-In dieser Aufgabe sollen Sie einfache SQL-Anfragen stellen, um die gewünschten Daten aus der Ihnen zur Verfügung gestellten _MovieDatabase_ auszulesen. Verwenden Sie das in der Vorlesung besprochene Tool  [\textcolor{blue}{DB Browser für SQLite}](https://sqlitebrowser.org/), um die Datenbank zu importieren und ihre SQL-Anfragen zu formulieren. Schreiben Sie anschließend SQL-Statements, mit welchen Sie
+In dieser Aufgabe sollen Sie einfache SQL-Abfragen stellen, um die gewünschten Daten aus der Ihnen zur Verfügung gestellten _MovieDatabase_ auszulesen. Verwenden Sie das in der Vorlesung besprochene Tool  [\textcolor{blue}{DB Browser für SQLite}](https://sqlitebrowser.org/), um die Datenbank zu importieren und ihre SQL-Abfragen zu formulieren. Schreiben Sie anschließend SQL-Statements, mit welchen Sie
 
 - alle Filmtitel auflisten.
 
