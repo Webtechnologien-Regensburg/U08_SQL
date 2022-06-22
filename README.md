@@ -1,6 +1,6 @@
 ---
 title: SQL Grundlagen
-author: Jakob Fehle
+author: Martin Kocur
 documentclass: scrartcl
 classoption:
   - a4paper
