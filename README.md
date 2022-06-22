@@ -46,14 +46,14 @@ In dieser Aufgabe sollen Sie einfache SQL-Abfragen stellen, um die gewünschten 
 
 *Abgabekriterien:*
 
-Laden Sie Ihre Antworten bis spätestens 17.06.2020 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch. Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
+Laden Sie Ihre Antworten bis spätestens 27.06.2020 (23:59 Uhr) als zip-komprimierten Ordner auf GRIPS hoch. Benennen Sie die einzelnen Dateien pro Aufgabe sinnvoll und verwenden Sie geeignete Formate:
 
 - Aufgabe: Eine SQL-Datei (.sql) mit allen Queries
 
 
-Der Name der Datei ergibt sich aus dem Präfix „Übung_WT_SS21“, der Nr. des Übungsblattes, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
+Der Name der Datei ergibt sich aus dem Präfix „Übung_WT_SS22“, der Nr. des Übungsblattes, ihrem Vor- und Nachnamen jeweils getrennt durch _ .
 
  
 
-Beispiel: **Übung_WT_SS21_9_Max_Mustermann.zip**
+Beispiel: **Übung_WT_SS22_9_Max_Mustermann.zip**
 
